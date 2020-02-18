@@ -1,0 +1,40 @@
+body {
+    background: burlywood; /* define a cor de fundo do site */
+    margin-left: 100px; /*coloca a margem a esquerda mais para dentro*/
+    margin-right: 200px; /*coloca a margem a direita mais para dentro*/
+}
+
+header {
+    margin-top: 70px; /*coloca a distancia da parte de cima do elemento no caso o cabeçalho com um distanciamento maior*/
+}
+
+
+h1 {
+    color: red; /*muda a cor do tamanho da letra h1*/
+    font-family: fantasy; /*muda a fonte de H1*/
+}
+
+h2 {
+    font-family: fantasy;
+}
+
+p {
+  font-size: 18px; /*Muda o tamanho da fonte*/
+}
+
+img{
+    margin-bottom: 20px; /*Margem de distancia da parte de baixo no caso da imagem e outros componentes do site*/
+}
+
+.footer{
+    margin-bottom: 30px;
+}
+
+.img_padrao{
+    margin-bottom: 20px;
+    width: 300px;
+}
+
+.logo{
+    width: 50px;
+}
